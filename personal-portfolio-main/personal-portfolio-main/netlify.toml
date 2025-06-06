@@ -1,4 +1,4 @@
 [build]
-base = "."
-command = "npm run build"       # or your actual build command
-publish = "build"               # or your actual output folder (e.g., dist)
+base = "portfolio"
+command = "npm run build"
+publish = "build"
