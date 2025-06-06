@@ -2,3 +2,5 @@
   base = "personal-portfolio-main"
   publish = "personal-portfolio-main/build"
   command = "npm run build"
+[build.environment]
+PHP_VERSION = "8.3}"
