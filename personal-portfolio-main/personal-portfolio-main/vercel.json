@@ -1,0 +1,4 @@
+// vercel.json (for basic static deployment)
+{
+  "rewrites": [{ "source": "/", "destination": "/index.html" }]
+}
